@@ -11,7 +11,6 @@ public class Point {
 		for(int i = 0;i < s.length; i++ ) {
 			cards.add(new Card(s[i]));
 			cards.get(i).calculatePoint();
-			
 		}
 			
 	

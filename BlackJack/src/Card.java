@@ -4,8 +4,7 @@ public class Card {
 	
 	public Card(String n) {
 		name = n;
-		
-	}
+			}
 	
 	public String setCard() {
 		return name;
