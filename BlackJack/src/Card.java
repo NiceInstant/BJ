@@ -28,6 +28,7 @@ public class Card {
 		else if(String.valueOf(s[0]).equals("T") ) {
 			p = 11;
 		}
+		
 		else {
 			p = Integer.parseInt(String.valueOf(s[0]));
 		}
